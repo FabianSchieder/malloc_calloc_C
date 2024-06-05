@@ -26,8 +26,6 @@ int main(void)
 
     free(ptr);
 
-    system("pause");
-
     return 0;
 }
 
