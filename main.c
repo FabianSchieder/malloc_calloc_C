@@ -21,7 +21,6 @@ int main(void)
     }
 
     initMemory(ptr, size);
-
     printMemoryContent(ptr, size);
 
     free(ptr);
